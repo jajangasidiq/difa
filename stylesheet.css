@@ -1,5 +1,5 @@
 body {
-	/* background-image: url('../WhatsApp Image 2021-03-14 at 23.46.48.jpeg');*/
+	/* background-image: url('bg.jpeg'); */
 	background-color: #000;
 	-webkit-transition:background-color linear 5s;
 	-moz-transition:background-color linear 5s;
@@ -12,7 +12,7 @@ body {
 	display: none;
 }
 .peach {
-	background-color: #FFDAB9;
+	background-image: url('bg.jpeg');
 	
 }
 .peach-after {
@@ -25,90 +25,90 @@ body {
 
 @-webkit-keyframes peach_alive {
 	0%{
-		background-color: #FFDAB9;
+		background-image: url('bg.jpeg');
 	}
 	25%{
-		background-color: #FFE4B5;
+		background-image: url('bg.jpeg');
 	}
 	50%{
-		background-color: #FFDAB9;
+		background-image: url('bg.jpeg');
 	}
 	75%{
-		background-color: #FFEFD5;
+		background-image: url('bg.jpeg');
 	}
 	100%{
-		background-color: #FFDAB9;
+		background-image: url('bg.jpeg');
 	}
 }
 @-moz-keyframes peach_alive {
 	0%{
-		background-color: #FFDAB9;
+		background-image: url('bg.jpeg');
 	}
 	25%{
-		background-color: #FFE4B5;
+		background-image: url('bg.jpeg');
 	}
 	50%{
-		background-color: #FFDAB9;
+		background-image: url('bg.jpeg');
 	}
 	75%{
-		background-color: #FFEFD5;
+		background-image: url('bg.jpeg');
 	}
 	100%{
-		background-color: #FFDAB9;
-	}
+		background-image: url('bg.jpeg');
+	
 }
 
 @-o-keyframes peach_alive {
 	0%{
-		background-color: #FFDAB9;
+		background-image: url('bg.jpeg');
 	}
 	25%{
-		background-color: #FFE4B5;
+		background-image: url('bg.jpeg');
 	}
 	50%{
-		background-color: #FFDAB9;
+		background-image: url('bg.jpeg');
 	}
 	75%{
-		background-color: #FFEFD5;
+		background-image: url('bg.jpeg');
 	}
 	100%{
-		background-color: #FFDAB9;
+		background-image: url('bg.jpeg');
 	}
 }
 
 @-ms-keyframes peach_alive {
 	0%{
-		background-color: #FFDAB9;
+		background-image: url('bg.jpeg');
 	}
 	25%{
-		background-color: #FFE4B5;
+		background-image: url('bg.jpeg');
 	}
 	50%{
-		background-color: #FFDAB9;
+		background-image: url('bg.jpeg');
 	}
 	75%{
-		background-color: #FFEFD5;
+		background-image: url('bg.jpeg');
 	}
 	100%{
-		background-color: #FFDAB9;
+		background-image: url('bg.jpeg');
 	}
 }
 
 @keyframes peach_alive {
 	0%{
-		background-color: #FFDAB9;
+		background-image: url('bg.jpeg');
 	}
 	25%{
-		background-color: #FFE4B5;
+		background-image: url('bg.jpeg');
 	}
 	50%{
-		background-color: #FFDAB9;
+		background-image: url('bg.jpeg');
 	}
 	75%{
-		background-color: #FFEFD5;
+		background-image: url('bg.jpeg');
 	}
 	100%{
-		background-color: #FFDAB9;
+		background-image: url('bg.jpeg');
 	}
 }
 
