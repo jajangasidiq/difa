@@ -1,6 +1,6 @@
 body {
 	/*background-color: #FFDAB9;	*/
-	background-color: #000;
+	background-image:url('bg.jpeg');
 	-webkit-transition:background-color linear 5s;
 	-moz-transition:background-color linear 5s;
 	-o-transition:background-color linear 5s;
@@ -12,7 +12,7 @@ body {
 	display: none;
 }
 .peach {
-	background-image: url ('bg.jpeg');
+	background-color: #FFDAB9;
 	
 }
 .peach-after {
