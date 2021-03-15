@@ -10,6 +10,12 @@ body {
 }
 .container {
 	display: none;
+	
+
+
+
+
+    background-image: url('bg.jpeg');
 }
 .peach {
 	background-color: #FFDAB9;
