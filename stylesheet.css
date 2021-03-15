@@ -1286,6 +1286,11 @@ audio {
 	display: none;
 	font-weight: bold;
 }
+.message img {
+	position: center;
+}
+	
+	
 
 .btn-primary {
         border-color: #466baf;
